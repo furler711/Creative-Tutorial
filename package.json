@@ -1,0 +1,8 @@
+{
+  "name": "ball-bouncing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/furler711/Creative-Tutorial.git",
+  "author": "furler711 <furler711@gmail.com>",
+  "license": "MIT"
+}
